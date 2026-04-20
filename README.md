@@ -20,6 +20,22 @@
 - [What I'd Add With More Time](#what-id-add-with-more-time)
 
 ---
+## UI Preview
+
+### Workflow Canvas
+![Canvas](./src/assets/canvas.png)
+
+### Node Types
+![Node Types](./src/assets/node-types.png)
+
+### Overview Panel
+![Overview](./src/assets/overview.png)
+
+### Performance Panel
+![Performance](./src/assets/performance.png)
+
+### Simulation Sandbox
+![Sandbox](./src/assets/sandbox.png)
 
 ## Quick Start
 
